@@ -1,6 +1,6 @@
 {
   "homepage":"http://jithus13.github.io/react-app",
-  "name": "webapp",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
