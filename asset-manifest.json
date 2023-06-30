@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/webapp/static/js/main.a07abb9e.js",
-    "index.html": "/webapp/index.html",
-    "main.a07abb9e.js.map": "/webapp/static/js/main.a07abb9e.js.map"
+    "main.js": "/greendzine/static/js/main.a07abb9e.js",
+    "index.html": "/greendzine/index.html",
+    "main.a07abb9e.js.map": "/greendzine/static/js/main.a07abb9e.js.map"
   },
   "entrypoints": [
     "static/js/main.a07abb9e.js"
